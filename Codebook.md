@@ -1,15 +1,17 @@
 #Codebook for Getting and Tidying Data final project
 
 # Purpose
-The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. ReadMe.md has the directions
-provided by the Coursera website.
+
+* The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. `ReadMe.md` has the         directions provided by the Coursera website.
 
 # Source Data
-The data used in this project: [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-[The source data for this project:](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+* The data used in this project: [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
+* [The source data for this project:](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 # Data Set Information
+
 * `subject` - The ID of the test subject
 * `activity` - The type of activity performed
 
@@ -105,6 +107,7 @@ The data used in this project: [The UCI Machine Learning Repository](http://arch
 * `Laying` (value `6`): subject was laying down
 
 #Create a Tidy data set
-output is tidydata.txt in Github
+
+* Output is `tidydata.txt` in Github
 
 
