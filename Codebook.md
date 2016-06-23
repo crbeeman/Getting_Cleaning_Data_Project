@@ -100,8 +100,8 @@
 # Labels for Activity
 
 * `Walking` (value `1`): subject was walking
-* `Walking_Upstairs` (value `2`): subject was walking upstairs
-* `Walking_Downstairs` (value `3`): subject was walking downstairs
+* `Walking Upstairs` (value `2`): subject was walking upstairs
+* `Walking Downstairs` (value `3`): subject was walking downstairs
 * `Sitting` (value `4`): subject was sitting
 * `Standing` (value `5`): subject was standing
 * `Laying` (value `6`): subject was laying down
