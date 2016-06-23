@@ -1,18 +1,19 @@
 #Codebook for Getting and Tidying Data final project
 
 # Purpose
-The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
+The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. ReadMe.md has the directions
+provided by the Coursera website.
 
-### Source Data
+# Source Data
 The data used in this project: [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 [The source data for this project:](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-### Data Set Information
+# Data Set Information
 * `subject` - The ID of the test subject
-* `activity` - The type of activity performed when the corresponding measurements were taken
+* `activity` - The type of activity performed
 
-## Measurements
+# Measurements
 
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
@@ -94,15 +95,16 @@ The data used in this project: [The UCI Machine Learning Repository](http://arch
 * `fBodyBodyGyroJerkMagStd`
 * `fBodyBodyGyroJerkMagMeanFreq`
 
-## Activity Labels
+# Labels for Activity
 
-* `WALKING` (value `1`): subject was walking during the test
-* `WALKING_UPSTAIRS` (value `2`): subject was walking up a staircase during the test
-* `WALKING_DOWNSTAIRS` (value `3`): subject was walking down a staircase during the test
-* `SITTING` (value `4`): subject was sitting during the test
-* `STANDING` (value `5`): subject was standing during the test
-* `LAYING` (value `6`): subject was laying down during the test
+* `Walking` (value `1`): subject was walking
+* `Walking_Upstairs` (value `2`): subject was walking upstairs
+* `Walking_Downstairs` (value `3`): subject was walking downstairs
+* `Sitting` (value `4`): subject was sitting
+* `Standing` (value `5`): subject was standing
+* `Laying` (value `6`): subject was laying down
 
-
+#Create a Tidy data set
+output is tidydata.txt in Github
 
 
